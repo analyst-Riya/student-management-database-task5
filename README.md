@@ -38,7 +38,7 @@ Two SQL views created:
 
 ## 📄 File Included
 
-- [StudentManagement_Task5_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23629085/StudentManagement_Task5_reports_Riya_Kumar.sql) — SQL script with all advanced analytical queries. Contains **all Task 5 queries in one file**, separated with comments
+- [StudentManagement_Task5_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23629468/StudentManagement_Task5_reports_Riya_Kumar.sql) — SQL script with all advanced analytical queries. Contains **all Task 5 queries in one file**, separated with comments
 -  [Result_Screenshots.zip](https://github.com/user-attachments/files/23629093/Result_Screenshots.zip) — Screenshots of query results
 - `README.md` — project documentation 
 
@@ -47,8 +47,7 @@ Two SQL views created:
 1. Ensure your **Task 1, Task 2, Task 3 or Task 4 database setup** is already done.  
 2. Open your SQL environment (MySQL, PostgreSQL, etc.)  
 3. Run the SQL file:
-[StudentManagement_Task5_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23629160/StudentManagement_Task5_reports_Riya_Kumar.sql)
-
+[StudentManagement_Task5_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23629473/StudentManagement_Task5_reports_Riya_Kumar.sql)
 
 ## Technologies
 - SQL
