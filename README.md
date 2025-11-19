@@ -1,6 +1,6 @@
 # Student Management Database — Task 5
 This project is part of my internship at Main Crafts Technology.
-This task includes writing mutliple analytical SQL queries inside one single SQL file using **Window Functions** and **Advanced Analytical Techniques**.
+This task includes writing mutliple analytical SQL queries inside one single SQL file using *Window Functions* and *Advanced Analytical Techniques*.
 
 
 ## ✅ Task Overview
@@ -44,7 +44,7 @@ Two SQL views created:
 
 
 ## 🛠️ How to Use
-1. Ensure your **Task 1, Task 2, or Task 3 database setup** is already done.  
+1. Ensure your **Task 1, Task 2, Task 3 or Task 4 database setup** is already done.  
 2. Open your SQL environment (MySQL, PostgreSQL, etc.)  
 3. Run the SQL file:
 [StudentManagement_Task5_reports_Riya_Kumar.sql](https://github.com/user-attachments/files/23629160/StudentManagement_Task5_reports_Riya_Kumar.sql)
