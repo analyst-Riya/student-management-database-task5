@@ -1,4 +1,4 @@
-# Student Management Database — 5
+# Student Management Database — Task 5
 This project is part of my internship at Main Crafts Technology.
 This task includes writing mutliple analytical SQL queries inside one single SQL file using **Window Functions** and **Advanced Analytical Techniques**.
 
@@ -12,8 +12,8 @@ In this task, I worked with advanced SQL concepts to generate analytical insight
 - Percentiles / Quartiles  
 - Running (Cumulative) Averages  
 - Benchmark Comparison  
-- Reusable Views  
- All queries were executed on the Student Management Database.
+- Reusable Views
+All queries were executed on the Student Management Database.
 
 
 ## 📌 Queries Included in this project
